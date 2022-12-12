@@ -1,4 +1,4 @@
-# Candy_Dispenser <h>
+# Project 1: Candy Dispenser <h>
 
 Repository for my project 1 which is a candy dispenser.
 
